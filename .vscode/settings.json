@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/wjidea/miniconda/envs/flask/bin/python"
+    "python.pythonPath": "/Users/wjidea/miniconda/envs/flask/bin/python",
+    "python.linting.enabled": true
 }
